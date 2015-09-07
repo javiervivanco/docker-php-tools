@@ -4,7 +4,7 @@
 
 In container use 
 
-   ---volumes-from javiervivanco/docker-php-tools
+    --volumes-from javiervivanco/docker-php-tools
 
 In your container set
 
